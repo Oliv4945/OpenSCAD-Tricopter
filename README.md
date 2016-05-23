@@ -1,6 +1,6 @@
 # OpenSCAD-Tricopter    -    La FraiseVolante
 A fully customizable 3D printed tricopter designed thanks to [OpenSCAD](http://www.openscad.org).  
-The code is not cristal clear as it was my first "big" project in order to try OpenSCAD for such things, but all parameters can be changed in the file `Variables.scad`, I try to add warnings in the log for illogical values but always check after modifications. Also, the rod length will be displayed in the log too.
+The code is not cristal clear as it was my first "big" project in order to try OpenSCAD for such things, but all parameters can be changed in the file `Variables.scad`, I tried to add warnings in the log for illogical values but always check after modifications. Also, the rod length will be displayed in the log too.
 
 The tricopter works well but the documentation is a work in progress. If needed ask me ;-)
 
@@ -50,5 +50,5 @@ There is 4 categories
 Screws are all 3 mm, mainly 6 an 8 mm long (TBC). You can use metal screws but nylon will save weight, and especially act as fuses. It works well !
 
 # Others
-There are coments in code to help to understand, but from time to time some names are not explicits. If you change them PR are welcome !  
+There are comments in code to help to understand, but from time to time some names are not explicits. If you change them PR are welcome !  
 Thank to the [Brocopter](http://www.thingiverse.com/thing:413639) for some inspiration, especially to add some tape on the rods in order to adjust the motor support.

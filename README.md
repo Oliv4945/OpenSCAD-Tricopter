@@ -1,4 +1,4 @@
-# OpenSCAD-Tricopter
+# OpenSCAD-Tricopter    -    La FraiseVolante
 A fully customizable 3D printed tricopter designed thanks to [OpenSCAD](http://www.openscad.org).  
 The code is not cristal clear as it was my first "big" project in order to try OpenSCAD for such things, but all parameters can be changed in the file `Variables.scad`, I try to add warnings in the log for illogical values but always check after modifications. Also, the rod length will be displayed in the log too.
 
